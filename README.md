@@ -1,5 +1,7 @@
-# awesome-sublime-packages
-Collecting awesome sublime packages which speed up coding
+# Awesome Sublime Text Packages
+> Collecting awesome sublime packages which speed up coding
+
+## Packages
 
 - [Color Highlighter](https://github.com/Monnoroch/ColorHighlighter)
 
