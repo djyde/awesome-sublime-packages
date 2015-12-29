@@ -1,4 +1,5 @@
-# Awesome Sublime Text Packages
+# Awesome Sublime Text Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/djyde/awesome-sublime-packages)
+
 > Collecting awesome sublime packages which speed up coding
 
 ## Packages
